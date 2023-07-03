@@ -30,6 +30,10 @@
   --font-weight-bold: 700;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--white-color);
   font-family: var(--body-font-family);
